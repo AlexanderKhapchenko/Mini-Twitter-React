@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mini-Twitter-React/static/css/main.65482754.css",
+    "main.js": "/Mini-Twitter-React/static/js/main.c3955123.js",
+    "index.html": "/Mini-Twitter-React/index.html",
+    "main.65482754.css.map": "/Mini-Twitter-React/static/css/main.65482754.css.map",
+    "main.c3955123.js.map": "/Mini-Twitter-React/static/js/main.c3955123.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65482754.css",
+    "static/js/main.c3955123.js"
+  ]
+}
